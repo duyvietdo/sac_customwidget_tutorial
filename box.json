@@ -12,21 +12,21 @@
         {
             "kind": "main",
             "tag": "com-demo-gauge",
-            "url": "box.js",
+            "url": "https://duyvietdo.github.io/sac_customwidget_tutorial/box.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "styling",
             "tag": "com-demo-gauge-sps",
-            "url": "box_sps.js",
+            "url": "https://duyvietdo.github.io/sac_customwidget_tutorial/box_sps.js",
             "integrity": "",
             "ignoreIntegrity": true       
         },
         {
             "kind": "builder",
             "tag": "com-demo-box-bps",
-            "url": "box_bps.js",
+            "url": "https://duyvietdo.github.io/sac_customwidget_tutorial/box_bps.js",
             "integrity": "",
             "ignoreIntegrity": true       
         }    
