@@ -13,22 +13,22 @@
             "kind": "main",
             "tag": "com-demo-gauge",
             "url": "https://duyvietdo.github.io/sac_customwidget_tutorial/box.js",
-            "integrity": "",
-            "ignoreIntegrity": true
+            "integrity": "sha256-ee0c38d29efdc9256105136d2876480e9a86cac78f25c49d51b525512ad4b698",
+            "ignoreIntegrity": false
         },
         {
             "kind": "styling",
             "tag": "com-demo-gauge-sps",
             "url": "https://duyvietdo.github.io/sac_customwidget_tutorial/box_sps.js",
-            "integrity": "",
-            "ignoreIntegrity": true       
+            "integrity": "sha256-a9f87514bc25cb94aa7d5c968f36fe53869a8d99ba6225b4424d9a6c92824bdd",
+            "ignoreIntegrity": false       
         },
         {
             "kind": "builder",
             "tag": "com-demo-box-bps",
             "url": "https://duyvietdo.github.io/sac_customwidget_tutorial/box_bps.js",
-            "integrity": "",
-            "ignoreIntegrity": true       
+            "integrity": "sha256-42ada60e69018b909b5221054fb8bd00176a1495a18b12d0c918bb2731ea9250",
+            "ignoreIntegrity": false       
         }    
     ],
     "properties": {
